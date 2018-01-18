@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+main()
 {
 int n,a,b;
 printf("enter the range:");
