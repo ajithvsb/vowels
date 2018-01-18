@@ -12,5 +12,5 @@ printf("prime")
 else
 {
 printf("not prime")
-}
+} return 0;
 }
